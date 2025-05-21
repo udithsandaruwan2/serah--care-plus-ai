@@ -2,6 +2,8 @@
 
 Serah Care+ is an intelligent, voice-enabled healthcare assistant designed to provide real-time, conversational health support. With the power of natural language understanding and generative AI, Serah helps users get health-related guidance, symptom explanations, and caregiver recommendations — all through a simple and beautiful voice interface.
 
+<img src="image_2025-05-21_153735298.png">
+
 ---
 
 ## ✨ Features
